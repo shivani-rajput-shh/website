@@ -1,3 +1,8 @@
 [[edge_functions]]
   path = "/apsara"
   function = "gate"
+
+
+[[edge_functions]]
+  path = "/apsara.html"
+  function="gate"
